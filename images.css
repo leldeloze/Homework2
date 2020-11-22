@@ -1,0 +1,15 @@
+img {
+    border-radius: 4px;
+    width: 150px;
+  }
+  .catimage  {
+ display:block;
+  margin:auto;
+  border-radius: 4px;
+  }
+  .endcat{
+    display:block;
+  margin:auto;
+  border-radius: 4px;
+  width: 450px  
+  }
